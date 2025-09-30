@@ -10,5 +10,5 @@
 </h1>
 
 
-### Passionate about transforming the world through cutting edge Artificial Intelligence solutions. Currently pursuing specialized knowledge in Computer Vision, Machine Learning, NLP and Agentic AI
+### Passionate About Transforming the World Through Cutting Edge Artificial Intelligence Solutions. Currently pursuing specialized knowledge in Computer Vision, Machine Learning, NLP and Agentic AI.
 
