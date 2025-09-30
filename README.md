@@ -32,6 +32,15 @@
   </a>
 </div>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
+</p>
+
 <hr>
 
 ## ⚡️ Stats
