@@ -13,7 +13,7 @@
 ### Passionate About Transforming the World Through Cutting Edge Artificial Intelligence Solutions. Currently pursuing specialized knowledge in Computer Vision, Machine Learning, NLP and Agentic AI.
 
 - 🌱 I’m currently learning **Multi Agent Systems & Expert Systems**
-- 💬 Ask me about **Agentic AI, Computer Vision, or Machine Learning**
+- 💬 Ask me about **Agentic AI, Computer Vision, or Machine Learning Here**
 
 <br>
 
