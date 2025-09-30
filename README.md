@@ -41,7 +41,37 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
 </p>
 
+---
+
+## 🤖 Data Science & AI
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F3631D?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-229955?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-6050DC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangSmith-FFD700?style=for-the-badge" />
+</p>
+
+---
+
+## 👁️ Computer Vision
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roboflow-15AEDA?style=for-the-badge" />
+</p>
+
 <hr>
+
 
 ## ⚡️ Stats
 
